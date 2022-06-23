@@ -1,13 +1,15 @@
-html {
-    background-color: azure;
+body {
+    background-color: #E0C097;
 }
 
 hr {
     border-style: none;
     border-top-style: dotted;
-    /* background-color: grey; */
     border-color: grey;
     border-width: 5px;
-    /* height: 5px; */
     width: 5%;
+}
+
+h1, h2, h3 {
+    color: #5C3D2E;
 }
