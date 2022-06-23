@@ -1,0 +1,13 @@
+html {
+    background-color: azure;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    /* background-color: grey; */
+    border-color: grey;
+    border-width: 5px;
+    /* height: 5px; */
+    width: 5%;
+}
